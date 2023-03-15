@@ -36,6 +36,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ### **Licence**
 
 ***
-MIT
+[MIT](https://github.com/HakkiErk/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
